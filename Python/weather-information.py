@@ -1,7 +1,7 @@
 import requests
 import json
 
-# input city and get wheather information
+# input city and get weather information
 city = input("Enter City: ")
 
 
